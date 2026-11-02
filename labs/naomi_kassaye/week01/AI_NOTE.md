@@ -1,0 +1,3 @@
+**1. Which task did I use an assistant for?**: Task 5( understanding the instructions and Dart behavior) and optional Task 6 (understanding StatelessWidget, Column, Scaffold and widget testing).
+**2. What did it get wrong or what did i not understand?**: I initially did not understand how `split(' ')` handles consecutive spaces and empty strings, or why accessing word[0] could cause a RangeError. I also needed help understanding what Task 6 required me to implement.
+**3. What did I check myself and how?:** I predicted and tested the outputs of capitalizeWords in Dartpad, compared the results with my predictions, tested my Dart exercises, ran `flutter analyze --fatal-infos` and verified my AboutScreen using `flutter test test/app_test.dart.`
